@@ -1,0 +1,39 @@
+---------JARVIS FUNCTIONS---------
+
+time - To get current time.
+open notepad - To open notepad.
+close notepad - To close notepad.
+open command prompt or open cmd - To open command prompt.
+open camera - To open the camera.
+play music - To play local music file.
+ip address - To get your IP Address through ipify api.
+wikipedia - To get any information on wikipedia. The query should be search { } on wikipedia.
+open youtube - To open youtube.
+open instagram - To open instagram.
+open facebook - To open facebook.
+open google or google search - To search anything on google. The query should be jarvis google search { }.
+send whatsapp message or send a whatsapp message - This query first asks to whom you want to send message to then sends the message to them.
+search on youtube or youtube search - To search anything on youtube. The query should be jarvis youtube search {} or jarvis search {} on youtube.
+email - This query first asks that what is the content of the message and then sends email..
+tell me joke - To make jarvis tells you a joke.
+shutdown the system - To shutdown the system.
+restart the system - To restart the system.
+sleep the system - To sleep the system.
+how puch power left or battery - To make jarvis speak battery percentage.
+switch the window - To switch between windows.
+tell me news or headline - To get latest news.
+where am i or what is my location or where are we - To get your current location.
+take screenshot - This query first asks you to name the screenshot file then takes screenshot.
+dictionary - This query first asks you what want. If you want meaning, synonym or antonym of any word you just simply say respectively. Example - jarvis what is the meaning of blind.
+temperature - This query shows the current temperature in the city you specified. The query should be jarvis what is the current temperature in indore.
+read pdf - This query reads aloud any PDF file. This acts like audiobook.
+do some calculations - Does simple mathematical calculations for you.
+how to  - This query tells you the term you searched for. Example - jarvis how to make a cake.
+internet speed - To get your download and upload speed in bits per second.
+send message or send a message - This query first asks what should the message looks like then sends the text message.
+volume down - Decreases the system's volume.
+volume up - Increases the system's volume.
+volume mute - Mutes the system's volume.
+set alarm - This query firsts asks when to set the alarm and then sets the alarm.
+you can sleep - To make the jarvis sleep.
+exit - To exit the jarvis.
